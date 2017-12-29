@@ -1,1 +1,1 @@
-## �ռ�BUG demo
+﻿## 收集BUG demo
